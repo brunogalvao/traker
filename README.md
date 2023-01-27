@@ -27,3 +27,9 @@ yarn lint
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Link do Projeto Publicado
+
+```
+https://traker.vercel.app
+```
